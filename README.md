@@ -8,11 +8,7 @@
 
 ### 🚀 Sobre Mim
 
-Sou um profissional de dados com background em **Sistemas de Informação** e **Contabilidade**, apaixonado por transformar processos de negócio complexos em **pipelines de dados automatizados e eficientes**.
-
-Minha missão é unir conhecimento de negócio com tecnologia para eliminar gargalos operacionais, aumentar a maturidade dos processos e entregar dados prontos para análise, gerando autonomia e valor para as equipes. Atualmente, aplico essas habilidades como **Estagiário de Business Intelligence para Finanças na HP**.
-
-Estou focado em aprofundar meus conhecimentos em **Engenharia Analítica** e **Machine Learning aplicado**, buscando desafios onde posso construir soluções de dados escaláveis.
+Graduando em Sistemas de Informação (previsão dez/2026) e Técnico em Contabilidade, com 2 anos de experiência em análise de dados aplicada às áreas financeira e comercial. Interesse focado em Engenharia Analítica e Machine Learning, com forte atuação em automação de processos, estruturação de dados e integração entre ferramentas de análise.
 
 ---
 
